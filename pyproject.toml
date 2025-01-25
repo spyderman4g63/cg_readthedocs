@@ -1,0 +1,4 @@
+[tool.sphinx]
+config-dir = "docs"
+doctree-dir = "docs/_build/doctrees"
+builder = "html"
